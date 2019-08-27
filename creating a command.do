@@ -1,6 +1,3 @@
-/*This is a change done during the GitHub Lab */
-
-
 * Create data
 clear
 set obs 10
